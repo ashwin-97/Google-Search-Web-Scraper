@@ -76,4 +76,5 @@ def main():
     
     df.to_excel('Mexico.xlsx')
     
-  main()
+if __name__ == "__main__":
+    main()
